@@ -1,15 +1,8 @@
-#0x01. Basic authentication
-<div class="d-flex flex-wrap">
 
-    <div class="flex-grow-1" id="curriculum_navigation_content">
-      
-<div class="project row">
-  <div class="col-xs-12 col-lg-10 contains-images">
-
-      <h1 class="gap">
+<h1 class="gap">
     0x01. Basic authentication
     
-  </h1>
+</h1>
 
   <div data-react-class="tags/Tags" data-react-props="{&quot;tags&quot;:[{&quot;id&quot;:35,&quot;value&quot;:&quot;Back-end&quot;,&quot;author_id&quot;:null,&quot;created_at&quot;:&quot;2022-06-16T01:59:38.000Z&quot;,&quot;updated_at&quot;:&quot;2022-06-16T01:59:38.000Z&quot;},{&quot;id&quot;:61,&quot;value&quot;:&quot;Authentification&quot;,&quot;author_id&quot;:null,&quot;created_at&quot;:&quot;2022-06-16T01:59:38.000Z&quot;,&quot;updated_at&quot;:&quot;2022-06-16T01:59:38.000Z&quot;}]}" data-react-cache-id="tags/Tags-0"></div>
 
