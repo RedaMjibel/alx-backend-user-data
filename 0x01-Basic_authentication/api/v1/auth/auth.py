@@ -18,8 +18,8 @@ class Auth:
             return True
 
         path = path.rstrip('/')
-        for i, path in enumerate(excluded_paths):
-            excluded_paths[i] = path.rstrip('/')
+        for i, ex_path in enumerate(excluded_paths):
+            excluded_paths[i] = ex_path.rstrip('/')
         return path not in excluded_paths
 
     def authorization_header(self, request=None) -> str:
