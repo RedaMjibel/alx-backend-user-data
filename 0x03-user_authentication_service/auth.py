@@ -11,6 +11,12 @@ from uuid import uuid4
 from typing import TypeVar
 
 
+def _generate_uuid() -> str:
+    """
+    _generate_uuid
+    """
+    return str(uuid4())
+
 def _hash_password(password: str) -> str:
     """
     takes in a password string arguments and returns bytes.
