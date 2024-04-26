@@ -17,6 +17,7 @@ def _generate_uuid() -> str:
     """
     return str(uuid4())
 
+
 def _hash_password(password: str) -> str:
     """
     takes in a password string arguments and returns bytes.
